@@ -250,7 +250,10 @@
     "categoryId": "voluntary_fasting",
     "levels": ["medium", "sabiqun"],
     "target": null,
-    "allowedDays": []
+    "allowedDays": [
+      { "type": "weekly", "day": 1 },
+      { "type": "weekly", "day": 4 }
+    ]
   },
   {
     "id": "siyam_ashura",
