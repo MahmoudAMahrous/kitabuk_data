@@ -216,10 +216,10 @@
   },
   {
     "id": "quran_pages",
-    "localizedLabels": { "ar": "قرآن (أجزاء)", "en": "Quran (juz)" },
+    "localizedLabels": { "ar": "جزء قرآن", "en": "Quran (juz')" },
     "categoryId": "quran",
     "levels": ["baby_steps", "medium", "sabiqun"],
-    "target": 2,
+    "target": null,
     "allowedDays": []
   },
   {
