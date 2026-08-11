@@ -174,7 +174,8 @@
     "categoryId": "adhkar",
     "levels": ["medium", "sabiqun"],
     "target": null,
-    "allowedDays": []
+    "allowedDays": [],
+    "action": { "type": "azkar_group", "targetId": "morning" }
   },
   {
     "id": "dhikr_mutlaq_sabah",
@@ -185,7 +186,8 @@
     "categoryId": "adhkar",
     "levels": ["medium", "sabiqun"],
     "target": 500,
-    "allowedDays": []
+    "allowedDays": [],
+    "action": { "type": "dhikr_counter" }
   },
   {
     "id": "adhkar_masaa",
@@ -193,7 +195,8 @@
     "categoryId": "adhkar",
     "levels": ["medium", "sabiqun"],
     "target": null,
-    "allowedDays": []
+    "allowedDays": [],
+    "action": { "type": "azkar_group", "targetId": "evening" }
   },
   {
     "id": "dhikr_mutlaq_masaa",
@@ -204,7 +207,8 @@
     "categoryId": "adhkar",
     "levels": ["medium", "sabiqun"],
     "target": 500,
-    "allowedDays": []
+    "allowedDays": [],
+    "action": { "type": "dhikr_counter" }
   },
   {
     "id": "adhkar_sleeping",
@@ -212,7 +216,8 @@
     "categoryId": "adhkar",
     "levels": ["medium", "sabiqun"],
     "target": null,
-    "allowedDays": []
+    "allowedDays": [],
+    "action": { "type": "azkar_group", "targetId": "sleep" }
   },
   {
     "id": "quran_pages",
