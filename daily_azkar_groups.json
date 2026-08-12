@@ -1102,7 +1102,25 @@
       },
       {
         "id": "4",
-        "arabic": "سُبْحَانَ اللهِ، وَالْحَمْدُ لِلَّهِ، وَاللهُ أَكْبَرُ.",
+        "arabic": "سُبْحَانَ اللهِ.",
+        "translation": null,
+        "transliteration": null,
+        "repetitions": 33,
+        "source": null,
+        "benefit": null
+      },
+      {
+        "id": "4.1",
+        "arabic": "الْحَمْدُ لِلَّهِ.",
+        "translation": null,
+        "transliteration": null,
+        "repetitions": 33,
+        "source": null,
+        "benefit": null
+      },
+      {
+        "id": "4.2",
+        "arabic": "اللهُ أَكْبَرُ.",
         "translation": null,
         "transliteration": null,
         "repetitions": 33,
