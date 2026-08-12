@@ -32,7 +32,8 @@
     "categoryId": "fajr",
     "levels": ["medium", "sabiqun"],
     "target": null,
-    "allowedDays": []
+    "allowedDays": [],
+    "action": { "type": "azkar_group", "targetId": "post_prayer" }
   },
   {
     "id": "dhuhr_on_time",
@@ -78,7 +79,8 @@
     "categoryId": "dhuhr",
     "levels": ["medium", "sabiqun"],
     "target": null,
-    "allowedDays": []
+    "allowedDays": [],
+    "action": { "type": "azkar_group", "targetId": "post_prayer" }
   },
   {
     "id": "asr_on_time",
@@ -102,7 +104,8 @@
     "categoryId": "asr",
     "levels": ["medium", "sabiqun"],
     "target": null,
-    "allowedDays": []
+    "allowedDays": [],
+    "action": { "type": "azkar_group", "targetId": "post_prayer" }
   },
   {
     "id": "maghrib_on_time",
@@ -134,7 +137,8 @@
     "categoryId": "maghrib",
     "levels": ["medium", "sabiqun"],
     "target": null,
-    "allowedDays": []
+    "allowedDays": [],
+    "action": { "type": "azkar_group", "targetId": "post_prayer" }
   },
   {
     "id": "isha_on_time",
@@ -166,7 +170,8 @@
     "categoryId": "isha",
     "levels": ["medium", "sabiqun"],
     "target": null,
-    "allowedDays": []
+    "allowedDays": [],
+    "action": { "type": "azkar_group", "targetId": "post_prayer" }
   },
   {
     "id": "adhkar_sabah",
